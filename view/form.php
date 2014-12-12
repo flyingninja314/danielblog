@@ -9,4 +9,7 @@
         <label for="post">Post: </label>
         <textarea name="post"></textarea>
     </div>
+    <div>
+        <button type="submit">Submit</button> <!-- way to submit post, but form needs an action file -->
+    </div>
 </form>
